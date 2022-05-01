@@ -1,0 +1,9 @@
+com/cgv/MainActivity.java
+ com.cgv.MainActivity
+com/cgv/MainApplication.java
+ com.cgv.MainApplication
+ com.cgv.MainApplication$1
+com/cgv/BuildConfig.java
+ com.cgv.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

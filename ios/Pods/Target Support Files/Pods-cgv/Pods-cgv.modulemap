@@ -1,0 +1,6 @@
+module Pods_cgv {
+  umbrella header "Pods-cgv-umbrella.h"
+
+  export *
+  module * { export * }
+}

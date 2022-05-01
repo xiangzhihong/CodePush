@@ -1,0 +1,4 @@
+#Sat Apr 30 23:15:02 CST 2022
+base.0=/Users/xzh/RN/work/cgv/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

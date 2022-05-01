@@ -1,0 +1,4 @@
+rootProject.name = 'cgv'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app', ':cpcn-react-native'
+project(':cpcn-react-native').projectDir = new File(rootProject.projectDir, '../node_modules/cpcn-react-native/android/app')

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-796701618/app.cgv.cpcn-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-796701618/app.cgv.cpcn-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cgv.iml" filepath="$PROJECT_DIR$/.idea/modules/cgv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cgv.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cgv.app.iml" />
+    </modules>
+  </component>
+</project>

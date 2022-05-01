@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cgv</string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">ahP7eRDQBEQg1magw8bxEclBQcYwY5GYZ9tZc</string>
+</resources>
